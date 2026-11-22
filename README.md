@@ -97,6 +97,4 @@ Follow the backend and frontend startup instructions provided in the project con
 
 Academic Project – Artificial Intelligence & Data Science
 
----
 
-**Disclaimer:** PRIVACHECK is an educational and decision-support tool. Its AI-generated assessments do not constitute legal advice or an official GDPR compliance certification.
